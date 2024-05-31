@@ -1,0 +1,124 @@
+.Fix2{
+  background-image: url('final.gif');
+  position: fixed;
+  text-align: center;
+  min-height: 100%;
+  min-width: 100%;
+  background-position: center;
+  background-size: cover;
+}
+.TopBar2{
+  background-color: black;
+  height: 60px;
+  position: relative;
+}
+#GameIcon2{
+  width: 50px;
+  height: 50px;
+  position: relative;
+}
+.Font2{
+  font-family: Magneto;
+  font-size: larger;
+  position: relative;
+  top:-85px;
+}
+.GameHead2{
+  margin-left: -80%;
+}
+.Color21{
+  color: #FF0303;
+}
+.Color22{
+  color: #ffffff;
+  margin-left: 4%;
+}
+.Slogan2{
+  font-family: Magneto;
+  font-size: 50px;
+  color: #ffffff;
+  position: relative;
+  top: -110px;
+  left: 300px;
+}
+.Head2{
+  font-family: Magneto;
+  font-size: 70px;
+  color: #ffffff;
+  margin-top: -0.3%;
+}
+#Avatar{
+  margin-top: 30px;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  
+}
+.TopHead{
+  position: relative;
+  left: 40px;
+  top: 60px;
+}
+.user{
+  text-align: center;
+  color: #ffffff;
+  font-size: large;
+  position: relative;
+}
+.account{
+  text-align: center;
+  color: white;
+  font-size: large;
+  position: relative;
+}
+.title{
+  text-align: center;
+  color: #ffffff;
+  font-size: large;
+  position: relative;
+  left: 300px;
+  top: 70px;
+}
+.title1{
+  text-align: center;
+  color: #ffffff;
+  font-size: large;
+  position: relative;
+  left: -40px;
+}
+.title2{
+  text-align: center;
+  color: #ffffff;
+  font-size: large;
+  position: relative;
+  left: -24px;
+}
+.input2{
+  background-color: black;
+  border: 2px solid rgb(197, 6, 255);
+  box-shadow: 0 0 10px rgb(223, 169, 244);
+  border-radius: 25px;
+  height:25px;
+  width: 200px;
+  color: #ffffff;
+  font-family: chiller;
+  font-size: 30px;
+}
+.Button2{
+  padding: 10px 10px 10px 10px;
+  width: 140px;
+  text-align: center;
+  position: relative;
+  font-size: 25px;
+  border: 2px solid rgb(197 , 6 ,255);
+  background-color: rgba(0, 0, 0, 0.858);
+  color:white;
+  border-radius: 25px;
+  box-shadow: 0 0 20px rgb(223 , 169 ,244);
+  cursor: pointer;
+  left: 40px;
+  transition: .3s;
+}
+.Button2:hover{
+  transform: scale(1.2);
+}

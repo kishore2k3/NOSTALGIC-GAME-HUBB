@@ -1,0 +1,246 @@
+.TopBar3{
+    background-color: black;
+    height: 60px;
+    position: relative;
+}
+#GameIcon3{
+    width: 50px;
+    height: 50px;
+    right: 730px;
+    position: relative;
+}
+.Font3{
+    font-family: Magneto;
+    font-size: larger;
+    position: relative;
+    top: -50px;
+}
+.GameHead3{
+    margin-left: -1270px;
+}
+.Color31{
+    color: #FF0303;
+}
+.Color32{
+    color: #ffffff;
+    margin-left: 4%;
+}
+.Slogan32{
+    font-family: Magneto;
+    font-size: 50px;
+    color: #ffffff;
+    position: relative;
+    top: -50px;
+    left: 300px;
+}
+.Fix3{
+    background-image: url('background1.gif');
+    position: fixed;
+    text-align: center;
+    min-height: 100%;
+    min-width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.Head3{
+    font-family: Magneto;
+    font-size: 70px;
+    color: #ffffff;
+    margin-top: -0.3%;
+}
+.Searchbar3{
+    color: rgb(241, 234, 234);
+    font-family: chiller;
+    font-weight: bold;
+    position: relative;
+    font-size: 30px;
+    top: -40px;
+    height: 35px;
+    width: 750px;
+    padding-left: 70px;
+    border-radius: 50px;
+    background-color: rgba(128, 128, 128, 0.59);
+    border: 4px solid rgb(197, 6, 255);
+    box-shadow: 0 0 10px rgb(223, 169, 244);
+}
+.Transition3{
+    position: relative;
+    top: -50px;
+    transition: .3s;
+}
+.Transition3:hover{
+    transform: scale(1.03);
+}
+#Account31{
+    position: relative;
+    background-image: url('pexels-sebastiaan-stam-1097456.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 40px;
+    height: 40px;
+    top: -165px;
+    left: 700px;
+    cursor: pointer;
+    border-width: 20px;
+    border: 4px solid rgb(197, 6, 255);
+    box-shadow: 0 0 10px rgb(223, 169, 244);
+    border-radius: 50%;
+    transition: .3s;
+}
+#Account31:hover{
+    transform: scale(1.1);
+}
+#Account32{
+    position: relative;
+    background-image: url('userprofile.png');
+    background-color: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 40px;
+    height: 40px;
+    top: -165px;
+    left: 700px;
+    cursor: pointer;
+    border-width: 20px;
+    border: 4px solid rgb(197, 6, 255);
+    box-shadow: 0 0 10px rgb(223, 169, 244);
+    border-radius: 50%;
+    transition: .3s;
+}
+#Account32:hover{
+    transform: scale(1.1);
+}
+#SearchIcon3{
+    position:relative;
+    width: 28px;
+    height: 28px;
+    top: -79px;
+    right: 380px;
+}
+.GameBar3{
+    position: relative;
+    text-align: center;
+    display: inline;
+    top: 150px;
+}
+.Ttt3{
+    width: 270px;
+    height: 270px;
+    position: relative;
+    border: 4px solid rgb(197, 6, 255);
+    box-shadow: 0 0 10px rgb(223, 169, 244);
+    background-image: url('tic-tac-toe\ .png');
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 30px;
+    cursor: pointer;
+    transition: 0.6s;
+}
+.Rps3{
+    width: 270px;
+    height: 270px;
+    position: relative;
+    border: 4px solid rgb(197, 6, 255);
+    box-shadow: 0 0 10px rgb(223, 169, 244);
+    background-image: url('rock-paper-scissors .png');
+    background-size: cover;
+    border-radius: 30px;
+    margin-left: 50px;
+    cursor: pointer;
+    transition: 0.6s;
+}
+.Paint3{
+    width: 270px;
+    height: 270px;
+    position: relative;
+    border: 4px solid rgb(197, 6, 255);
+    box-shadow: 0 0 10px rgb(223, 169, 244);
+    background-image: url('art.png');
+    background-size: cover;
+    border-radius: 30px;
+    margin-left: 50px;
+    cursor: pointer;
+    transition: 0.6s;
+}
+.Dino3{
+    width: 270px;
+    background-color: black;
+    height: 270px;
+    position: relative;
+    border: 4px solid rgb(197, 6, 255);
+    box-shadow: 0 0 10px rgb(223, 169, 244);
+    background-image: url('unnamed.png');
+    background-size: cover;
+    border-radius: 30px;
+    margin-left: 50px;
+    cursor: pointer;
+    transition: 0.6s;
+}
+.Rps3{
+    transform: scale(1);
+}
+.Rps3:hover{
+    transform: scale(1.3);
+}
+.Paint3{
+    transform: scale(1);
+}
+.Paint3:hover{
+    transform: scale(1.3);
+}
+.Dino3{
+    transform: scale(1);
+}
+.Dino3:hover{
+    transform: scale(1.3);
+}
+.Ttt3{
+    transform: scale(1);
+}
+.Ttt3:hover{
+    transform: scale(1.3);
+}
+.LeaderSet3{
+    position: relative;
+    left: 550px;
+    top: 270px;
+}
+.Setting3{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    padding: 2px 2px 2px 2px ;
+    background: url(setting.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 4px solid rgb(197, 6, 255);
+    box-shadow: 0 0 10px rgb(223, 169, 244);
+    background-color: black;
+    transition: .3s;
+    border-radius: 20px;
+}
+.Setting3:hover{
+    transform: scale(1.2);
+}
+.LeaderBoard3{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    padding: 2px 2px 2px 2px ;
+    background: url(icons8-podium-64.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    left: 30px;
+    border: 4px solid rgb(197, 6, 255);
+    box-shadow: 0 0 10px rgb(223, 169, 244);
+    background-color: black;
+    transition: .3s;
+    border-radius: 20px;
+
+}
+.LeaderBoard3:hover{
+    transform: scale(1.2);
+}
+.Setting3{
+    display: inline;
+}
